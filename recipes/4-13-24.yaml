@@ -1,0 +1,63 @@
+recipes:
+  - id: 1
+    title: Savory Apple Sage Turkey Sausages
+    description: Pair this classic sweet and savory flavor combination with oats or eggs for a hearty, high-protein breakfast. You can also toss these in a wrap for lunch, or eat them on the go for a satisfying snack. Lean turkey is high in protein, and apple provides a sweet balance to the more savory flavors.
+    serving_size: 8 patties
+    type: breakfast
+    tags: []
+    cook_time: 10mins
+    prep_time: 10mins
+    ingredients:
+      - id: 1
+        amount: 1/4
+        unit: cups
+        name: egg whites
+      - id: 2
+        amount: '1'
+        unit: lb
+        name: ground turkey
+    steps:
+      - id: 1
+        description: do thing
+      - id: 2
+        description: do thing 2
+    macros:
+      protein:
+        amount: 29
+        unit: g
+      carbs:
+        amount: 1
+        unit: g
+      fat:
+        amount: 1
+        unit: g
+  - id: 2
+    title: 'apple sage turkey stuffing'
+    description: foo
+    serving_size: 8 patties
+    type: breakfast
+    tags: []
+    ingredients:
+      - id: 1
+        amount: 1/4
+        unit: cups
+        name: egg whites
+      - id: 2
+        amount: '1'
+        unit: lb
+        name: ground turkey
+    steps:
+      - id: 1
+        description: do thing
+      - id: 2
+        description: do thing 2
+    macros:
+      protein:
+        amount: 29
+        unit: g
+      carbs:
+        amount: 1
+        unit: g
+      fat:
+        amount: 1
+        unit: g
